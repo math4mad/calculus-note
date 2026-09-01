@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Calculus Notes"
+  description: "Python marimo calculus notes migrated from Julia Pluto notebooks"
+  navbar:
+    title: "Calculus Notes"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: ch10.qmd
+        text: Chapter 10
+      - href: ch11.qmd
+        text: Chapter 11
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    code-tools: true

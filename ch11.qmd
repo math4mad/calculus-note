@@ -1,0 +1,18 @@
+---
+title: "Chapter 11: Differential Equations"
+---
+
+| Section | Topic | Notebook |
+|---|---|---|
+| 11.1 | Introduction to differential equations | [Open notebook](notebooks/cal-ch11-sec11.1.html) |
+| 11.2 | Direction fields | [Open notebook](notebooks/cal-ch11-sec11.2.html) |
+| 11.3 | Euler's method | [Open notebook](notebooks/cal-ch11-sec11.3.html) |
+| 11.4 | Separation of variables | [Open notebook](notebooks/cal-ch11-sec11.4.html) |
+| 11.5 | Growth and decay models | [Open notebook](notebooks/cal-ch11-sec11.5.html) |
+| 11.6 | Applied differential-equation models | [Open notebook](notebooks/cal-ch11-sec11.6.html) |
+| 11.8-1 | SIR epidemic model | [Open notebook](notebooks/cal-ch11-sec11.8-1.html) |
+| 11.8-2 | Lotka-Volterra predator-prey model | [Open notebook](notebooks/cal-ch11-sec11.8-2.html) |
+| 11.10 | Second-order differential equations | [Open notebook](notebooks/cal-ch11-sec11.10.html) |
+| 11.11 | Damped oscillations | [Open notebook](notebooks/cal-ch11-sec11.11.html) |
+
+Each page is a standalone marimo HTML export with the original Python source available in the repository.

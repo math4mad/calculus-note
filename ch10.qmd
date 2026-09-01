@@ -1,0 +1,11 @@
+---
+title: "Chapter 10: Taylor and Fourier Series"
+---
+
+| Section | Topic | Notebook |
+|---|---|---|
+| 10.1 | Taylor polynomials and approximation controls | [Open notebook](notebooks/cal-ch10-sec10.1.html) |
+| 10.2 | Taylor and geometric series convergence | [Open notebook](notebooks/cal-ch10-sec10.2.html) |
+| 10.5 | Fourier approximation of a square wave | [Open notebook](notebooks/cal-ch10-sec10.5.html) |
+
+Each page is a standalone marimo HTML export with the original Python source available in the repository.

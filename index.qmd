@@ -1,0 +1,22 @@
+---
+title: "Calculus Notes"
+subtitle: "Python marimo edition"
+---
+
+These notes migrate the original Julia Pluto calculus notebooks to executable Python marimo notebooks. The Julia sources are preserved in the repository's `julia-pluto` history.
+
+## Migrated chapters
+
+### [Chapter 10: Taylor and Fourier series](ch10.qmd)
+
+Taylor polynomials, convergence of power series, and Fourier approximation of a square wave.
+
+### [Chapter 11: Differential equations](ch11.qmd)
+
+Direction fields, Euler's method, growth and decay, applied models, SIR and Lotka-Volterra systems, harmonic motion, and damping.
+
+## Scope
+
+Chapters 10 and 11 contain the available source material for phase 6. Chapters 12 through 15 currently contain no source notebooks.
+
+The interactive notebook pages below are exported directly from marimo and can also be downloaded as Python source files.
