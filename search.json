@@ -25,14 +25,14 @@
     "href": "index.html#migrated-chapters",
     "title": "Calculus Notes",
     "section": "Migrated chapters",
-    "text": "Migrated chapters\n\nChapter 10: Taylor and Fourier series\nTaylor polynomials, convergence of power series, and Fourier approximation of a square wave.\n\n\nChapter 11: Differential equations\nDirection fields, Euler’s method, growth and decay, applied models, SIR and Lotka-Volterra systems, harmonic motion, and damping."
+    "text": "Available chapters\n\nPython marimo notes are available for Chapters 1–6 and 8–11.\n\nChapter 10: Taylor and Fourier series\nTaylor polynomials, convergence of power series, and Fourier approximation of a square wave.\n\n\nChapter 11: Differential equations\nDirection fields, Euler’s method, growth and decay, applied models, SIR and Lotka-Volterra systems, harmonic motion, and damping."
   },
   {
     "objectID": "index.html#scope",
     "href": "index.html#scope",
     "title": "Calculus Notes",
     "section": "Scope",
-    "text": "Scope\nChapters 10 and 11 contain the available source material for phase 6. Chapters 12 through 15 currently contain no source notebooks.\nThe interactive notebook pages below are exported directly from marimo and can also be downloaded as Python source files."
+    "text": "Scope\nPython marimo notes are available for Chapters 1–6 and 8–11. Chapters 7 and 12 through 15 currently contain no source notebooks.\nThe interactive notebook pages below are exported directly from marimo and can also be downloaded as Python source files."
   },
   {
     "objectID": "ch10.html",
@@ -40,5 +40,61 @@
     "title": "Chapter 10: Taylor and Fourier Series",
     "section": "",
     "text": "Section\nTopic\nNotebook\n\n\n\n\n10.1\nTaylor polynomials and approximation controls\nOpen notebook\n\n\n10.2\nTaylor and geometric series convergence\nOpen notebook\n\n\n10.5\nFourier approximation of a square wave\nOpen notebook\n\n\n\nEach page is a standalone marimo HTML export with the original Python source available in the repository."
+  },
+  {
+    "objectID": "notebooks/cal-ch01-sec1.1.html",
+    "href": "notebooks/cal-ch01-sec1.1.html",
+    "title": "Chapter 1: Python marimo notes",
+    "section": "Section 1.1",
+    "text": "Chapter 1 calculus Python marimo notebook Sections 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, and 1.9"
+  },
+  {
+    "objectID": "notebooks/cal-ch02-sec2.1.html",
+    "href": "notebooks/cal-ch02-sec2.1.html",
+    "title": "Chapter 2: Python marimo notes",
+    "section": "Section 2.1",
+    "text": "Chapter 2 calculus Python marimo notebook Sections 2.1, 2.2, 2.3, 2.4, and 2.5"
+  },
+  {
+    "objectID": "notebooks/cal-ch03-sec3.1.html",
+    "href": "notebooks/cal-ch03-sec3.1.html",
+    "title": "Chapter 3: Python marimo notes",
+    "section": "Section 3.1",
+    "text": "Chapter 3 calculus Python marimo notebook Sections 3.1 and 3.2"
+  },
+  {
+    "objectID": "notebooks/cal-ch04-sec4.1.html",
+    "href": "notebooks/cal-ch04-sec4.1.html",
+    "title": "Chapter 4: Python marimo notes",
+    "section": "Section 4.1",
+    "text": "Chapter 4 calculus Python marimo notebook Sections 4.1, 4.2, 4.3, 4.4, 4.5, and 4.8"
+  },
+  {
+    "objectID": "notebooks/cal-ch05-sec5.1.html",
+    "href": "notebooks/cal-ch05-sec5.1.html",
+    "title": "Chapter 5: Python marimo notes",
+    "section": "Section 5.1",
+    "text": "Chapter 5 calculus Python marimo notebook Sections 5.1, 5.2, 5.3, and 5.4"
+  },
+  {
+    "objectID": "notebooks/cal-ch06-sec6.1.html",
+    "href": "notebooks/cal-ch06-sec6.1.html",
+    "title": "Chapter 6: Python marimo notes",
+    "section": "Section 6.1",
+    "text": "Chapter 6 calculus Python marimo notebook Sections 6.1, 6.2, 6.3, and 6.4"
+  },
+  {
+    "objectID": "notebooks/cal-ch08-sec8.1.html",
+    "href": "notebooks/cal-ch08-sec8.1.html",
+    "title": "Chapter 8: Python marimo notes",
+    "section": "Section 8.1",
+    "text": "Chapter 8 calculus Python marimo notebook Sections 8.1, 8.2, 8.3, 8.4, 8.5, 8.6, 8.7, and 8.8"
+  },
+  {
+    "objectID": "notebooks/cal-ch09-sec9.1.html",
+    "href": "notebooks/cal-ch09-sec9.1.html",
+    "title": "Chapter 9: Python marimo notes",
+    "section": "Section 9.1",
+    "text": "Chapter 9 calculus Python marimo notebook Sections 9.1, 9.2, and 9.5"
   }
 ]
