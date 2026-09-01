@@ -1,0 +1,35 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.24.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "d6c10ffaaab7a6c22aaa4d2753c4bb62",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"6-62\">\u7b2c 6 \u7ae0 6.2 \u8282\uff1a\u7528\u5206\u6790\u65b9\u6cd5\u6784\u9020\u53cd\u5bfc\u51fd\u6570</h1>\n<span class=\"paragraph\">\u5728\u8fde\u901a\u533a\u95f4\u4e0a\uff0c\u82e5 <marimo-tex class=\"arithmatex\">||(F'(x)=0||)</marimo-tex>\uff0c\u5219 <marimo-tex class=\"arithmatex\">||(F(x)=C||)</marimo-tex>\u3002\u82e5\u4e24\u4e2a\u51fd\u6570\u5bfc\u6570\u76f8\u540c\uff0c\u5b83\u4eec\u76f8\u5dee\u4e00\u4e2a\u5e38\u6570\u3002</span>\n<marimo-tex class=\"arithmatex\">||[\n\\int x^n dx=\\frac{x^{n+1}}{n+1}+C\\ (n\\ne-1),\\qquad\n\\int\\frac{1}{x}dx=\\ln|x|+C.\n||]</marimo-tex><span class=\"paragraph\">\u5176\u4ed6\u57fa\u672c\u89c4\u5219\u5305\u62ec</span>\n<marimo-tex class=\"arithmatex\">||[\n\\int e^x dx=e^x+C,\\qquad \\int\\cos xdx=\\sin x+C,\\qquad\n\\int\\sin xdx=-\\cos x+C.\n||]</marimo-tex><span class=\"paragraph\">\u79ef\u5206\u6ee1\u8db3\u548c\u5dee\u6cd5\u5219\u4e0e\u5e38\u6570\u500d\u6cd5\u5219\u3002</span></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

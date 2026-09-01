@@ -19,7 +19,7 @@ venv env
 ##  workflow
  1. follow julia code refactor to python code 
  2. fix bugs
- 3. publish to gh-pages  folow  quarto wokflow
+ 3. publish to gh-pages  follow  quarto wokflow
 
 
  ##  test  

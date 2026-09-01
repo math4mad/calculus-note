@@ -1,0 +1,35 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.24.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "f224d63e4dde98d66b8dd7a5feb495e4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"2-24\">\u7b2c 2 \u7ae0 2.4 \u8282\uff1a\u5bfc\u6570\u7684\u8ba4\u8bc6</h1>\n<span class=\"paragraph\">\u5bfc\u6570\u53ef\u4ee5\u7528\u4e24\u79cd\u7b49\u4ef7\u7684\u8bb0\u53f7\u8868\u793a\uff1a</span>\n<marimo-tex class=\"arithmatex\">||[\n\\frac{\\Delta y}{\\Delta x},\\qquad \\frac{dy}{dx}\\approx\\frac{\\Delta y}{\\Delta x}.\n||]</marimo-tex><h2 id=\"_1\">\u94dc\u77ff\u5f00\u91c7\u6210\u672c</h2>\n<span class=\"paragraph\">\u8bbe\u5f00\u91c7 <marimo-tex class=\"arithmatex\">||(T||)</marimo-tex> \u5428\u94dc\u7684\u6210\u672c\u4e3a <marimo-tex class=\"arithmatex\">||(C=f(T)||)</marimo-tex>\uff0c\u5e76\u4e14 <marimo-tex class=\"arithmatex\">||(f'(2000)=100||)</marimo-tex>\u3002\n\u8fd9\u8868\u793a\u5728 <marimo-tex class=\"arithmatex\">||(T=2000||)</marimo-tex> \u9644\u8fd1\uff0c\u6bcf\u589e\u52a0\u4e00\u5428\u94dc\uff0c\u6210\u672c\u7ea6\u589e\u52a0 <marimo-tex class=\"arithmatex\">||(100||)</marimo-tex> \u4e2a\u6210\u672c\u5355\u4f4d\u3002</span>\n<span class=\"paragraph\">\u5f53\u589e\u52a0 <marimo-tex class=\"arithmatex\">||(5||)</marimo-tex> \u5428\u65f6\uff1a</span>\n<marimo-tex class=\"arithmatex\">||[\n\\Delta C\\approx f'(2000)\\Delta T=100\\times5=500.\n||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

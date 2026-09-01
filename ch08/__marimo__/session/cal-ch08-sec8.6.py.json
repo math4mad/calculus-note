@@ -1,0 +1,35 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.24.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "91cd0a08c230a9a01792e6de1dac6003",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"8-86\">\u7b2c 8 \u7ae0 8.6 \u8282\uff1a\u7ecf\u6d4e\u5b66\u4e2d\u7684\u79ef\u5206\u5e94\u7528</h1>\n<span class=\"paragraph\">\u590d\u5229\u6a21\u578b\u4e3a <marimo-tex class=\"arithmatex\">||(B=P(1+r)^t||)</marimo-tex>\uff0c\u56e0\u6b64\u73b0\u503c\u4e3a</span>\n<marimo-tex class=\"arithmatex\">||[P=\\frac{B}{(1+r)^t}.||]</marimo-tex><span class=\"paragraph\">\u8fde\u7eed\u590d\u5229\u548c\u8fde\u7eed\u8d34\u73b0\u5206\u522b\u4e3a</span>\n<marimo-tex class=\"arithmatex\">||[B=Pe^{rt},\\qquad P=Be^{-rt}.||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

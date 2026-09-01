@@ -1,0 +1,61 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.24.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "4bbba70131cb68a5fe3e2ef867b949a7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "40cd6eb54cf585d9a74fcb0e6a087ed2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"9-92\">\u7b2c 9 \u7ae0 9.2 \u8282\uff1a\u51e0\u4f55\u7ea7\u6570</h1>\n<span class=\"paragraph\">\u6709\u9650\u51e0\u4f55\u548c\u4e3a</span>\n<marimo-tex class=\"arithmatex\">||[a+ar+\\cdots+ar^{n-1}=\\frac{a(1-r^n)}{1-r},\\qquad r\\ne1.||]</marimo-tex><span class=\"paragraph\">\u5f53 <marimo-tex class=\"arithmatex\">||(|r|&lt;1||)</marimo-tex> \u65f6\uff0c\u65e0\u7a77\u51e0\u4f55\u548c\u4e3a <marimo-tex class=\"arithmatex\">||(a/(1-r)||)</marimo-tex>\u3002</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "6309307b5aa6e6fbd224b8d624539c23",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='vblA-0' random-id='356f05d5-cf20-062d-d927-0f5e15701e8a'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;_marimo_row_id&#92;&quot;:0,&#92;&quot;dose number&#92;&quot;:1,&#92;&quot;total amount&#92;&quot;:250.0},{&#92;&quot;_marimo_row_id&#92;&quot;:1,&#92;&quot;dose number&#92;&quot;:2,&#92;&quot;total amount&#92;&quot;:260.0},{&#92;&quot;_marimo_row_id&#92;&quot;:2,&#92;&quot;dose number&#92;&quot;:5,&#92;&quot;total amount&#92;&quot;:260.41664},{&#92;&quot;_marimo_row_id&#92;&quot;:3,&#92;&quot;dose number&#92;&quot;:10,&#92;&quot;total amount&#92;&quot;:260.41666666666396},{&#92;&quot;_marimo_row_id&#92;&quot;:4,&#92;&quot;dose number&#92;&quot;:100,&#92;&quot;total amount&#92;&quot;:260.4166666666667},{&#92;&quot;_marimo_row_id&#92;&quot;:5,&#92;&quot;dose number&#92;&quot;:1000,&#92;&quot;total amount&#92;&quot;:260.4166666666667},{&#92;&quot;_marimo_row_id&#92;&quot;:6,&#92;&quot;dose number&#92;&quot;:10000,&#92;&quot;total amount&#92;&quot;:260.4166666666667}]&quot;' data-total-rows='7' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;dose number&quot;,[&quot;integer&quot;,&quot;int64&quot;]],[&quot;total amount&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-selection='&quot;multi&quot;' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='true' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "af9c102dba257cd91e27459f7be01811",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"_1\">\u5b9a\u671f\u5b58\u6b3e</h2>\n<span class=\"paragraph\">\u6bcf\u671f\u5b58\u5165 <marimo-tex class=\"arithmatex\">||(1000||)</marimo-tex>\u3001\u589e\u957f\u7387\u4e3a <marimo-tex class=\"arithmatex\">||(5\\%||)</marimo-tex> \u65f6\uff0c\u7b2c <marimo-tex class=\"arithmatex\">||(n||)</marimo-tex> \u671f\u4f59\u989d\u53ef\u5199\u4e3a</span>\n<marimo-tex class=\"arithmatex\">||[B_n=\\frac{1000((1.05)^n-1)}{1.05-1}.||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

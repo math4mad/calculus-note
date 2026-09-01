@@ -1,0 +1,190 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.24.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "448a07aa57d145463c0903df23c96671",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "c87a4320-604b-4209-9271-50d61c91a1af",
+      "code_hash": "4e2cb32d9d16b3f5789f1ceafa06733a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>&lt;module &#x27;marimo&#x27; from &#x27;/Users/lunarcheung/Public/github/\ud83c\udd71\ufe0f\ud83c\udd7e\ufe0f2\ufe0f\u20e30\ufe0f\u20e32\ufe0f\u20e36\ufe0f\u20e3/calculus-note/.venv/lib/python3.14/site-packages/marimo/__init__.py&#x27;&gt;</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "55379cff-e301-42c9-b6c3-645a71b64991",
+      "code_hash": "8d1f08790507f9b0fd7e32535454bc9e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n\\int 3 x^{2} \\cos{\\left(x^{3} \\right)}\\, dx\n||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "b989aa4b-eb1f-405e-a129-e60e5b8246ea",
+      "code_hash": "d287abf00dcf8347bab0b96154258b2f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n\\sin{\\left(x^{3} \\right)}\n||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "6474da92-7921-4f4a-9118-e788cb125551",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "47cc5f5d-be06-4874-b8f4-03baa4ccf760",
+      "code_hash": "b6757ce60ceec2306e3081a7550eea95",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n\\begin{cases} \\frac{e^{y} \\left(y \\log{\\left(e \\right)} - 1\\right)}{\\log{\\left(e \\right)}^{2}} &amp; \\text{for}\\: \\log{\\left(e \\right)}^{2} \\neq 0 \\\\\\frac{y^{2}}{2} &amp; \\text{otherwise} \\end{cases}\n||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "f35e04ef-3ea8-4ef2-a152-64495dd82117",
+      "code_hash": "468dba8cc7a6500e50023c944759e8af",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n\\log{\\left(x \\right)}\n||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "93ec8a11-671e-4812-9a3c-d42f2de6fbd0",
+      "code_hash": "0e4cd5b856aece68277bd9a582c94a0a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n\\int\\limits_{2}^{3} \\log{\\left(x \\right)}\\, dx\n||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "d7cafb9c-2805-41f7-a419-8f70d39a88ff",
+      "code_hash": "4b8b6cbaf5a2de866d0ec1b1289d63c4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n- 2 \\log{\\left(2 \\right)} - 1 + 3 \\log{\\left(3 \\right)}\n||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ac6be939-2c21-4da1-8d1c-4db73cd6dc0f",
+      "code_hash": "332262a3c5d159c3527207b15112d3cf",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\nx^{6} \\log{\\left(x \\right)}\n||]</marimo-tex></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "09c3a247-a47d-44dd-9770-b3ea52e829f2",
+      "code_hash": "a9cdc4f23fda405cb2a3a10196548bc9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "72cc2094-92eb-4f10-9b19-c7980aadc87c",
+      "code_hash": "ee26004a2d45860139e158d4a23b235b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><strong>Product rule:</strong> <marimo-tex class=\"arithmatex\">||(d(uv)=u\\,dv+v\\,du||)</marimo-tex></span>\n<span class=\"paragraph\">For <marimo-tex class=\"arithmatex\">||(u=\\log(x)||)</marimo-tex> and <marimo-tex class=\"arithmatex\">||(dv=x^6dx||)</marimo-tex>: <marimo-tex class=\"arithmatex\">||(du=\\frac{1}{x}dx||)</marimo-tex>, <marimo-tex class=\"arithmatex\">||(v=\\frac{x^7}{7}||)</marimo-tex>.</span></span><div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><marimo-tex class=\"arithmatex\">||(x^{6} \\log{\\left(x \\right)}||)</marimo-tex></span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><marimo-tex class=\"arithmatex\">||(\\Rightarrow||)</marimo-tex></span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><marimo-tex class=\"arithmatex\">||(\\int x^{6} \\log{\\left(x \\right)}\\, dx||)</marimo-tex></span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><marimo-tex class=\"arithmatex\">||(\\Rightarrow||)</marimo-tex></span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><marimo-tex class=\"arithmatex\">||(\\frac{x^{7} \\log{\\left(x \\right)}}{7} - \\frac{x^{7}}{49}||)</marimo-tex></span></span></div></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "08811a85-f0f3-4d36-b477-29ca0a899a2a",
+      "code_hash": "1940a355186ddd745d32f5ababf3cadd",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n\\log{\\left(x \\right)}\n||]</marimo-tex></span><span>==&gt;</span><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n\\int \\log{\\left(x \\right)}\\, dx\n||]</marimo-tex></span><span>==&gt;</span><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\nx \\log{\\left(x \\right)} - x\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "4e348222-619c-4b4a-8f58-5dddca7d345d",
+      "code_hash": "7993d5024f6e7f7c4166531383b3d297",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\ne^{- x^{2}} \\operatorname{erf}{\\left(x \\right)}\n||]</marimo-tex></span><span>==&gt;</span><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n\\int e^{- x^{2}} \\operatorname{erf}{\\left(x \\right)}\\, dx\n||]</marimo-tex></span><span>==&gt;</span><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n\\frac{\\sqrt{\\pi} \\operatorname{erf}^{2}{\\left(x \\right)}}{4}\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "a510adb7-7c2f-43b3-b075-fc8143a98e88",
+      "code_hash": "a220071e4f2c3c696c55dd55fe200b8b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>URule(integrand=exp(x)/(exp(2*x) + 1), variable=x, u_var=_u, u_func=exp(x), substep=ArctanRule(integrand=1/(_u**2 + 1), variable=_u, a=1, b=1, c=1))</pre>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

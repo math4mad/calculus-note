@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "ch05.html",
+    "href": "ch05.html",
+    "title": "Chapter 5",
+    "section": "",
+    "text": "Available Python marimo notes:\n\n\n\nSection\nNotebook\n\n\n\n\n5.1\nOpen notebook\n\n\n5.2\nOpen notebook\n\n\n5.3\nOpen notebook\n\n\n5.4\nOpen notebook"
+  },
+  {
+    "objectID": "ch10.html",
+    "href": "ch10.html",
+    "title": "Chapter 10: Taylor and Fourier Series",
+    "section": "",
+    "text": "Section\nTopic\nNotebook\n\n\n\n\n10.1\nTaylor polynomials and approximation controls\nOpen notebook\n\n\n10.2\nTaylor and geometric series convergence\nOpen notebook\n\n\n10.5\nFourier approximation of a square wave\nOpen notebook\n\n\n\nEach page is a standalone marimo HTML export with the original Python source available in the repository."
+  },
+  {
+    "objectID": "ch12.html",
+    "href": "ch12.html",
+    "title": "Chapter 12",
+    "section": "",
+    "text": "No source notebook is currently available for this chapter."
+  },
+  {
+    "objectID": "ch07.html",
+    "href": "ch07.html",
+    "title": "Chapter 7",
+    "section": "",
+    "text": "No source notebook is currently available for this chapter."
+  },
+  {
+    "objectID": "ch03.html",
+    "href": "ch03.html",
+    "title": "Chapter 3",
+    "section": "",
+    "text": "Available Python marimo notes:\n\n\n\nSection\nNotebook\n\n\n\n\n3.1\nOpen notebook\n\n\n3.2\nOpen notebook"
+  },
+  {
+    "objectID": "ch14.html",
+    "href": "ch14.html",
+    "title": "Chapter 14",
+    "section": "",
+    "text": "No source notebook is currently available for this chapter."
+  },
+  {
+    "objectID": "ch01.html",
+    "href": "ch01.html",
+    "title": "Chapter 1",
+    "section": "",
+    "text": "Available Python marimo notes:\n\n\n\nSection\nNotebook\n\n\n\n\n1.1\nOpen notebook\n\n\n1.2\nOpen notebook\n\n\n1.3\nOpen notebook\n\n\n1.4\nOpen notebook\n\n\n1.5\nOpen notebook\n\n\n1.6\nOpen notebook\n\n\n1.7\nOpen notebook\n\n\n1.8\nOpen notebook\n\n\n1.9\nOpen notebook\n\n\nFirst function\nOpen notebook"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Calculus Notes",
+    "section": "",
+    "text": "These notes migrate the original Julia Pluto calculus notebooks to executable Python marimo notebooks. The Julia sources are preserved in the repository’s julia-pluto history."
+  },
+  {
+    "objectID": "index.html#chapters",
+    "href": "index.html#chapters",
+    "title": "Calculus Notes",
+    "section": "Chapters",
+    "text": "Chapters\n\n\n\nChapter\nStatus\n\n\n\n\nChapter 1\nPython marimo notes available\n\n\nChapter 2\nPython marimo notes available\n\n\nChapter 3\nPython marimo notes available\n\n\nChapter 4\nPython marimo notes available\n\n\nChapter 5\nPython marimo notes available\n\n\nChapter 6\nPython marimo notes available\n\n\nChapter 7\nNo source notebook currently available\n\n\nChapter 8\nPython marimo notes available\n\n\nChapter 9\nPython marimo notes available\n\n\nChapter 10\nPython marimo notes available\n\n\nChapter 11\nPython marimo notes available\n\n\nChapter 12\nNo source notebook currently available\n\n\nChapter 13\nNo source notebook currently available\n\n\nChapter 14\nNo source notebook currently available\n\n\nChapter 15\nNo source notebook currently available\n\n\n\n\nChapter 10: Taylor and Fourier series\nTaylor polynomials, convergence of power series, and Fourier approximation of a square wave.\n\n\nChapter 11: Differential equations\nDirection fields, Euler’s method, growth and decay, applied models, SIR and Lotka-Volterra systems, harmonic motion, and damping."
+  },
+  {
+    "objectID": "index.html#scope",
+    "href": "index.html#scope",
+    "title": "Calculus Notes",
+    "section": "Scope",
+    "text": "Scope\nChapters 10 and 11 contain the available source material for phase 6. Chapters 12 through 15 currently contain no source notebooks.\nThe interactive notebook pages below are exported directly from marimo and can also be downloaded as Python source files."
+  },
+  {
+    "objectID": "ch08.html",
+    "href": "ch08.html",
+    "title": "Chapter 8",
+    "section": "",
+    "text": "Available Python marimo notes:\n\n\n\nSection\nNotebook\n\n\n\n\n8.1\nOpen notebook\n\n\n8.2\nOpen notebook\n\n\n8.3\nOpen notebook\n\n\n8.4\nOpen notebook\n\n\n8.5\nOpen notebook\n\n\n8.6\nOpen notebook\n\n\n8.7\nOpen notebook\n\n\n8.8\nOpen notebook"
+  },
+  {
+    "objectID": "ch09.html",
+    "href": "ch09.html",
+    "title": "Chapter 9",
+    "section": "",
+    "text": "Available Python marimo notes:\n\n\n\nSection\nNotebook\n\n\n\n\n9.1\nOpen notebook\n\n\n9.2\nOpen notebook\n\n\n9.5\nOpen notebook"
+  },
+  {
+    "objectID": "Readme.html",
+    "href": "Readme.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n这是基于 Calculus: Single and Multivariable, 8th Edition\n的 julia pluto notes\n准备迁移到Python marimo 笔记"
+  },
+  {
+    "objectID": "ch15.html",
+    "href": "ch15.html",
+    "title": "Chapter 15",
+    "section": "",
+    "text": "No source notebook is currently available for this chapter."
+  },
+  {
+    "objectID": "ch02.html",
+    "href": "ch02.html",
+    "title": "Chapter 2",
+    "section": "",
+    "text": "Available Python marimo notes:\n\n\n\nSection\nNotebook\n\n\n\n\n2.1\nOpen notebook\n\n\n2.2\nOpen notebook\n\n\n2.3\nOpen notebook\n\n\n2.4\nOpen notebook\n\n\n2.5\nOpen notebook"
+  },
+  {
+    "objectID": "ch13.html",
+    "href": "ch13.html",
+    "title": "Chapter 13",
+    "section": "",
+    "text": "No source notebook is currently available for this chapter."
+  },
+  {
+    "objectID": "ch06.html",
+    "href": "ch06.html",
+    "title": "Chapter 6",
+    "section": "",
+    "text": "Available Python marimo notes:\n\n\n\nSection\nNotebook\n\n\n\n\n6.1\nOpen notebook\n\n\n6.2\nOpen notebook\n\n\n6.3\nOpen notebook\n\n\n6.4\nOpen notebook"
+  },
+  {
+    "objectID": "ch04.html",
+    "href": "ch04.html",
+    "title": "Chapter 4",
+    "section": "",
+    "text": "Available Python marimo notes:\n\n\n\nSection\nNotebook\n\n\n\n\n4.1\nOpen notebook\n\n\n4.2\nOpen notebook\n\n\n4.3\nOpen notebook\n\n\n4.4\nOpen notebook\n\n\n4.5\nOpen notebook\n\n\n4.8\nOpen notebook"
+  },
+  {
+    "objectID": "ch11.html",
+    "href": "ch11.html",
+    "title": "Chapter 11: Differential Equations",
+    "section": "",
+    "text": "Section\nTopic\nNotebook\n\n\n\n\n11.1\nIntroduction to differential equations\nOpen notebook\n\n\n11.2\nDirection fields\nOpen notebook\n\n\n11.3\nEuler’s method\nOpen notebook\n\n\n11.4\nSeparation of variables\nOpen notebook\n\n\n11.5\nGrowth and decay models\nOpen notebook\n\n\n11.6\nApplied differential-equation models\nOpen notebook\n\n\n11.8-1\nSIR epidemic model\nOpen notebook\n\n\n11.8-2\nLotka-Volterra predator-prey model\nOpen notebook\n\n\n11.10\nSecond-order differential equations\nOpen notebook\n\n\n11.11\nDamped oscillations\nOpen notebook\n\n\n\nEach page is a standalone marimo HTML export with the original Python source available in the repository."
+  }
+]
