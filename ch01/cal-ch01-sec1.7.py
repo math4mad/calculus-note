@@ -10,7 +10,16 @@ def __():
     import matplotlib.pyplot as plt
     import numpy as np
     import pandas as pd
+    return mo, np, pd, plt
+
+
+@app.cell
+def _(mo):
     mo.md("# 第 1 章 1.7 节：函数连续性和极限简介\n\n极限把注意力放在测试点附近的局部环境。")
+
+
+@app.cell
+def _(mo, np, pd, plt):
     _x = np.linspace(-2, 2, 801)
     _fig, _axes = plt.subplots(1, 3, figsize=(13, 4))
     _axes[0].plot(_x, 3 * _x**3 - _x**2 + 2 * _x - 1, color="#176b87")
@@ -31,8 +40,12 @@ def __():
 
 
 @app.cell
-def __(mo, np, pd, plt):
+def __(mo):
     mo.md("## 数值观点和中值定律\n\n连续函数在符号变化的区间内至少有一个零点。")
+
+
+@app.cell
+def __(mo, np, pd, plt):
     def F(x):
         return np.cos(x) - 2 * x**2
     _x = np.arange(0.6, 0.7001, 0.01)
@@ -50,8 +63,12 @@ def __(mo, np, pd, plt):
 
 
 @app.cell
-def __(mo, np, plt):
+def __(mo):
     mo.md("## 极限例子\n\n可去间断、左右极限不同、无界增长和快速振荡说明了不同的极限行为。")
+
+
+@app.cell
+def __(np, plt):
     _x = np.linspace(-2, 6, 801)
     _x = _x[_x != 3]
     _fig, _axes = plt.subplots(1, 3, figsize=(14, 4))
@@ -74,8 +91,12 @@ def __(mo, np, plt):
 
 
 @app.cell
-def __(mo, np, plt):
+def __(mo):
     mo.md("## 振荡极限\n\n$\\sin(1/x)$ 在 $x$ 接近 0 时持续振荡，因此没有唯一极限。")
+
+
+@app.cell
+def __(np, plt):
     _x = np.linspace(-0.5 * np.pi, 0.5 * np.pi, 3001)
     _x = _x[_x != 0]
     _fig, _ax = plt.subplots(figsize=(9, 4))

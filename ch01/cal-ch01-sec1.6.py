@@ -9,7 +9,16 @@ def __():
     import marimo as mo
     import matplotlib.pyplot as plt
     import numpy as np
+    return mo, np, plt
+
+
+@app.cell
+def _(mo):
     mo.md("# 第 1 章 1.6 节：幂函数、多项式函数和有理函数\n\n幂函数的一般形式为 $f(x)=kx^p$。")
+
+
+@app.cell
+def _(np, plt):
     _x = np.linspace(-2, 2, 401)
     _fig, _axes = plt.subplots(1, 2, figsize=(10, 4))
     for _power in [5, 3]:
@@ -29,8 +38,12 @@ def __():
 
 
 @app.cell
-def __(mo, np, plt):
+def _(mo):
     mo.md("## 指数函数和幂函数\n\n指数函数最终会远远超过固定次数的幂函数。")
+
+
+@app.cell
+def _(np, plt):
     _x = np.linspace(1, 15, 500)
     _fig, _axes = plt.subplots(1, 3, figsize=(12, 4))
     for _axis, _end in zip(_axes, [5, 12, 15]):
@@ -46,8 +59,12 @@ def __(mo, np, plt):
 
 
 @app.cell
-def __(mo, np, plt):
+def _(mo):
     mo.md("## 多项式和有理函数")
+
+
+@app.cell
+def _(np, plt):
     _x = np.linspace(-10, 10, 801)
     _fig, _axes = plt.subplots(1, 2, figsize=(10, 4))
     _axes[0].plot(_x, _x**4 - 15 * _x**2 - 15 * _x, label="polynomial")

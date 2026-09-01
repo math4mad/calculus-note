@@ -112,7 +112,7 @@ def _(mo, np, pd, plt):
 
 
 @app.cell
-def _(mo, np, plt):
+def _(mo):
     mo.md(
         """## 一般形式的指数函数
 
@@ -123,6 +123,10 @@ def _(mo, np, plt):
     ## 指数函数簇
     """
     )
+
+
+@app.cell
+def _(np, plt):
     _t_growth = np.linspace(0, 7, 701)
     _fig, _ax = plt.subplots(figsize=(7, 5))
     for _factor in [10, 5, 3, 2, 1.5]:

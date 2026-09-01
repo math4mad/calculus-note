@@ -5,11 +5,20 @@ app = marimo.App(width="medium")
 
 
 @app.cell
-def __(mo, plt, np):
+def __():
     import marimo as mo
     import matplotlib.pyplot as plt
     import numpy as np
+    return mo, np, plt
+
+
+@app.cell
+def _(mo):
     mo.md("# 第 1 章 1.5 节：三角函数\n\n三角函数与单位圆关系密切。单位圆上的点为 $(\\cos t,\\sin t)$。")
+
+
+@app.cell
+def _(plt, np):
     _theta = np.pi / 6
     _circle = np.linspace(0, 2 * np.pi, 601)
     _arc = np.linspace(0, _theta, 101)
@@ -34,8 +43,12 @@ def __(mo, plt, np):
 
 
 @app.cell
-def __(plt, np):
+def __(mo):
     mo.md("## 三角函数的变换\n\n改变振幅、周期、反射方向或垂直位置。")
+
+
+@app.cell
+def __(plt, np):
     _t = np.linspace(-2 * np.pi, 2 * np.pi, 901)
     _functions = [np.sin(_t), 5 * np.sin(2 * _t), -5 * np.sin(_t / 2), 1 + 2 * np.sin(_t)]
     _labels = [r"$\sin t$", r"$5\sin(2t)$", r"$-5\sin(t/2)$", r"$1+2\sin t$"]
