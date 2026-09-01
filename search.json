@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "ch11.html",
+    "href": "ch11.html",
+    "title": "Chapter 11: Differential Equations",
+    "section": "",
+    "text": "Section\nTopic\nNotebook\n\n\n\n\n11.1\nIntroduction to differential equations\nOpen notebook\n\n\n11.2\nDirection fields\nOpen notebook\n\n\n11.3\nEuler’s method\nOpen notebook\n\n\n11.4\nSeparation of variables\nOpen notebook\n\n\n11.5\nGrowth and decay models\nOpen notebook\n\n\n11.6\nApplied differential-equation models\nOpen notebook\n\n\n11.8-1\nSIR epidemic model\nOpen notebook\n\n\n11.8-2\nLotka-Volterra predator-prey model\nOpen notebook\n\n\n11.10\nSecond-order differential equations\nOpen notebook\n\n\n11.11\nDamped oscillations\nOpen notebook\n\n\n\nEach page is a standalone marimo HTML export with the original Python source available in the repository."
+  },
+  {
+    "objectID": "Readme.html",
+    "href": "Readme.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n这是基于 Calculus: Single and Multivariable, 8th Edition\n的 julia pluto notes\n准备迁移到Python marimo 笔记"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Calculus Notes",
+    "section": "",
+    "text": "These notes migrate the original Julia Pluto calculus notebooks to executable Python marimo notebooks. The Julia sources are preserved in the repository’s julia-pluto history."
+  },
+  {
+    "objectID": "index.html#migrated-chapters",
+    "href": "index.html#migrated-chapters",
+    "title": "Calculus Notes",
+    "section": "Migrated chapters",
+    "text": "Migrated chapters\n\nChapter 10: Taylor and Fourier series\nTaylor polynomials, convergence of power series, and Fourier approximation of a square wave.\n\n\nChapter 11: Differential equations\nDirection fields, Euler’s method, growth and decay, applied models, SIR and Lotka-Volterra systems, harmonic motion, and damping."
+  },
+  {
+    "objectID": "index.html#scope",
+    "href": "index.html#scope",
+    "title": "Calculus Notes",
+    "section": "Scope",
+    "text": "Scope\nChapters 10 and 11 contain the available source material for phase 6. Chapters 12 through 15 currently contain no source notebooks.\nThe interactive notebook pages below are exported directly from marimo and can also be downloaded as Python source files."
+  },
+  {
+    "objectID": "ch10.html",
+    "href": "ch10.html",
+    "title": "Chapter 10: Taylor and Fourier Series",
+    "section": "",
+    "text": "Section\nTopic\nNotebook\n\n\n\n\n10.1\nTaylor polynomials and approximation controls\nOpen notebook\n\n\n10.2\nTaylor and geometric series convergence\nOpen notebook\n\n\n10.5\nFourier approximation of a square wave\nOpen notebook\n\n\n\nEach page is a standalone marimo HTML export with the original Python source available in the repository."
+  }
+]
