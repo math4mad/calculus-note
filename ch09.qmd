@@ -1,0 +1,11 @@
+---
+title: "Chapter 9"
+---
+
+Available Python marimo notes:
+
+| Section | Notebook |
+|---|---|
+| 9.1 | [Open notebook](notebooks/cal-ch09-sec9.1.html) |
+| 9.2 | [Open notebook](notebooks/cal-ch09-sec9.2.html) |
+| 9.5 | [Open notebook](notebooks/cal-ch09-sec9.5.html) |

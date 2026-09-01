@@ -5,13 +5,31 @@ subtitle: "Python marimo edition"
 
 These notes migrate the original Julia Pluto calculus notebooks to executable Python marimo notebooks. The Julia sources are preserved in the repository's `julia-pluto` history.
 
-## Migrated chapters
+## Chapters
 
-### [Chapter 10: Taylor and Fourier series](ch10.qmd)
+| Chapter | Status |
+|---|---|
+| [Chapter 1](ch01.qmd) | Python marimo notes available |
+| [Chapter 2](ch02.qmd) | Python marimo notes available |
+| [Chapter 3](ch03.qmd) | Python marimo notes available |
+| [Chapter 4](ch04.qmd) | Python marimo notes available |
+| [Chapter 5](ch05.qmd) | Python marimo notes available |
+| [Chapter 6](ch06.qmd) | Python marimo notes available |
+| [Chapter 7](ch07.qmd) | No source notebook currently available |
+| [Chapter 8](ch08.qmd) | Python marimo notes available |
+| [Chapter 9](ch09.qmd) | Python marimo notes available |
+| [Chapter 10](ch10.qmd) | Python marimo notes available |
+| [Chapter 11](ch11.qmd) | Python marimo notes available |
+| [Chapter 12](ch12.qmd) | No source notebook currently available |
+| [Chapter 13](ch13.qmd) | No source notebook currently available |
+| [Chapter 14](ch14.qmd) | No source notebook currently available |
+| [Chapter 15](ch15.qmd) | No source notebook currently available |
+
+### Chapter 10: Taylor and Fourier series
 
 Taylor polynomials, convergence of power series, and Fourier approximation of a square wave.
 
-### [Chapter 11: Differential equations](ch11.qmd)
+### Chapter 11: Differential equations
 
 Direction fields, Euler's method, growth and decay, applied models, SIR and Lotka-Volterra systems, harmonic motion, and damping.
 

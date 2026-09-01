@@ -1,0 +1,12 @@
+---
+title: "Chapter 6"
+---
+
+Available Python marimo notes:
+
+| Section | Notebook |
+|---|---|
+| 6.1 | [Open notebook](notebooks/cal-ch06-sec6.1.html) |
+| 6.2 | [Open notebook](notebooks/cal-ch06-sec6.2.html) |
+| 6.3 | [Open notebook](notebooks/cal-ch06-sec6.3.html) |
+| 6.4 | [Open notebook](notebooks/cal-ch06-sec6.4.html) |

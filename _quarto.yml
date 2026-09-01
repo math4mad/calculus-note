@@ -10,10 +10,38 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: ch10.qmd
-        text: Chapter 10
-      - href: ch11.qmd
-        text: Chapter 11
+      - text: Chapters
+        menu:
+          - href: ch01.qmd
+            text: Chapter 1
+          - href: ch02.qmd
+            text: Chapter 2
+          - href: ch03.qmd
+            text: Chapter 3
+          - href: ch04.qmd
+            text: Chapter 4
+          - href: ch05.qmd
+            text: Chapter 5
+          - href: ch06.qmd
+            text: Chapter 6
+          - href: ch07.qmd
+            text: Chapter 7
+          - href: ch08.qmd
+            text: Chapter 8
+          - href: ch09.qmd
+            text: Chapter 9
+          - href: ch10.qmd
+            text: Chapter 10
+          - href: ch11.qmd
+            text: Chapter 11
+          - href: ch12.qmd
+            text: Chapter 12
+          - href: ch13.qmd
+            text: Chapter 13
+          - href: ch14.qmd
+            text: Chapter 14
+          - href: ch15.qmd
+            text: Chapter 15
 
 format:
   html:

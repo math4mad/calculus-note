@@ -1,0 +1,13 @@
+---
+title: "Chapter 2"
+---
+
+Available Python marimo notes:
+
+| Section | Notebook |
+|---|---|
+| 2.1 | [Open notebook](notebooks/cal-ch02-sec2.1.html) |
+| 2.2 | [Open notebook](notebooks/cal-ch02-sec2.2.html) |
+| 2.3 | [Open notebook](notebooks/cal-ch02-sec2.3.html) |
+| 2.4 | [Open notebook](notebooks/cal-ch02-sec2.4.html) |
+| 2.5 | [Open notebook](notebooks/cal-ch02-sec2.5.html) |
